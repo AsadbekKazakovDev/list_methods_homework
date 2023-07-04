@@ -5,5 +5,8 @@ def main(fruits):
         fruits(list): parameter
     Returns:
         int: return answer
-    """
-    return
+    """ 
+    k = fruits.count("apple")
+    return k
+fruits = ["apple", "banana", "apple", "pear"]
+print(main(fruits))
