@@ -11,4 +11,4 @@ def main(fruits1, fruits2):
     return fruits1
 fruits1 = ["apple", "banana"] 
 fruits2 = ["kiwi", "pear"]
-print(main(fruits1, fruits2))
+print(main(fruits1, fruits2) )
